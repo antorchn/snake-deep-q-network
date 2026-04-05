@@ -15,7 +15,7 @@ The agent uses the **DQN (Deep Q-Network)** algorithm coupled with a multi-input
 
 The agent achieves remarkable performance for a classic DQN, reaching an **average snake length of 22 blocks** over a thousand evaluation games (out of a theoretical maximum of 100 on this grid).
 
-<img src="snake_agent_size_30.gif" alt="Snake Expert" width="400"/>
+[Example :![Snake Expert](./snake_agent_size_30.gif)]
 
 *Demonstration of a visual game where the agent intelligently navigates to reach a size of 30.*
 
